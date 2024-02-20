@@ -1,0 +1,240 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.container {
+
+width: 70%;
+margin: 0 auto;
+
+
+}
+
+
+body{
+    min-height: 100vh;
+    background-color: #ffffff;
+}
+
+
+
+.topnav {
+    background-color: #f7f0f0;
+    overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+ 
+}
+
+.bld{
+    font-weight: bold;
+}
+
+.topnav-right {
+  float: right;
+}
+
+
+
+
+.big-img{
+    background-image: url(../Assets/images/architect.jpg);
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+}
+
+.br{
+
+    text-align: center;
+    align-items: center;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    
+
+
+}
+
+::-webkit-scrollbar {
+    display: none;
+  }
+
+.bbr{
+    background-color: #000000;
+    padding: 8px 8px;
+    opacity: 0.5;
+}
+
+.arc{
+    font-weight: lighter;
+}
+
+
+
+
+
+
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 1px;
+  }
+  
+ 
+  
+  
+  
+  .responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+    
+    
+  }
+
+
+ .a8{
+    background-color: #000000;
+    color: white;
+    padding: 2px 5px;
+    font-weight: lighter;
+    
+
+ }
+
+ .desc{
+    margin-top: 30px;
+
+ }
+
+.about{
+  margin-top: 450px;
+  
+}
+
+.about-p{
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+
+
+div.gallery2 {
+  border: 1px solid #ccc;
+  margin-bottom: 50px;
+}
+
+
+
+div.gallery2 img {
+  width: 100%;
+  height: auto;
+  
+}
+
+
+
+
+
+.responsive2 {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+.p1{
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.p2{
+  font-weight: lighter;
+  font-size: 15px;
+  margin-bottom: 15px;
+  opacity: 0.75;
+}
+
+.p3{
+  font-weight: lighter;
+  font-size: 15px;
+  margin-bottom: 15px;
+}
+
+.p4{
+  margin-top: 15px;
+  text-align: center;
+  border-radius: 1px solid white;
+  background-color: #f7efef;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.contact{
+  margin-bottom: 30px;
+}
+
+
+.pra{
+ margin-bottom: 8px;
+}
+
+
+input[type="text"] {
+  display: block;
+  padding: 12px;
+  border-radius: 1px;
+  width: 100%;
+  border: 1px solid #dfcdcd;
+  color: rgb(0, 0, 0);
+
+  }
+
+  .button-1{
+    align-items: center;
+    margin-top: 15px;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    justify-content: center;
+    text-align: center;
+    cursor: pointer;
+    border: none;
+    border-radius: 1px;
+    padding: 10px 15px;
+    font-weight: bold;
+}
+
+.map{
+  background-image: url(../Assets/images/map.jpg);
+  height: 500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-bottom: 8px;
+  margin-top: 50px;
+}
+
+.w3{
+  text-decoration: underline;
+}
+
+.fot{
+padding: 20px;
+}
+
+footer {
+  background-color: #000000;
+  color: white;
+  text-align: center;
+  bottom: 0;
+
+}
